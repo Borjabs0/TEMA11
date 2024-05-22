@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="565968f2-dd3e-44c5-a2b0-6765502b19f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/borjabolufer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/borjabolufer/Tema11/ejercicios/ejercicio01/Punto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/borjabolufer/Tema11/ejercicios/ejercicio02/Poligono.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/borjabolufer/Tema11/ejercicios/ejercicio03/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/borjabolufer/Tema11/ejercicios/ejercicio03/CocheCambioAutomatico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/borjabolufer/Tema11/ejercicios/ejercicio03/CocheCambioManual.java" afterDir="false" />
+    <list default="true" id="565968f2-dd3e-44c5-a2b0-6765502b19f5" name="Changes" comment="Commit de Ejercicio 1,2,3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +22,7 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="untitled" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -62,6 +39,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Borjabs0&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Borjabs0/TEMA11.git&quot;,
+    &quot;accountId&quot;: &quot;06fb9bb3-8c18-4fbd-b831-e76aa32efd01&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -77,8 +66,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/1ºDAM/Programacion/Tema11",
+    "last_opened_file_path": "D:/1ºDAM/Programacion/Tema11",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,21 +78,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Tema11" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Tema11" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -121,27 +96,26 @@
       <updated>1716369790746</updated>
       <workItem from="1716369791822" duration="11000" />
       <workItem from="1716369982924" duration="255000" />
-      <workItem from="1716370247057" duration="8549000" />
+      <workItem from="1716370247057" duration="8817000" />
+      <workItem from="1716384289804" duration="39000" />
+      <workItem from="1716384343221" duration="86000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit de Ejercicio 1,2,3">
+      <option name="closed" value="true" />
+      <created>1716379066209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716379066209</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/borjabolufer/Tema11/ejercicios/ejercicio02/Poligono.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/borjabolufer/Tema11/ejercicios/ejercicio02/Poligono.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit de Ejercicio 1,2,3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit de Ejercicio 1,2,3" />
   </component>
 </project>

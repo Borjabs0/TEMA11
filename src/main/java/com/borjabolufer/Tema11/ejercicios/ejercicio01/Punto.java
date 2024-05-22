@@ -64,7 +64,7 @@ public class Punto {
     }
 
     /**
-     * Método para calcular la distancia entre este punto y otro punto dado.
+     * Método para calcular la distancia entre el punto x  y el punto y dado.
      *
      * @param punto El punto con el que se desea calcular la distancia.
      * @return La distancia entre este punto y el punto dado.
@@ -72,7 +72,7 @@ public class Punto {
     public double distancia(Punto punto) {
         double distanciaX = this.x - punto.x;
         double distanciaY = this.y - punto.y;
-        return Math.sqrt(distanciaX * distanciaX + distanciaY * distanciaY);
+        return Math.sqrt(Math.pow(punto.x - x, 2 ) + Math.pow(punto.y - y, 2));
     }
 
     /**

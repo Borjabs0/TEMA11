@@ -65,7 +65,7 @@ public class Main {
 
         // Si es un coche con cambio manual, cambiar la marcha a tercera
         if (!esAutomatico) {
-            ((CocheCambioManual) coche).cambioDeMarcha(3);
+            coche.cambioDeMarcha(3);
         }
 
         // Mostrar la información del coche después de acelerar y cambiar marcha

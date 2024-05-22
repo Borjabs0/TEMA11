@@ -31,6 +31,7 @@ public class Poligono {
             double nuevaX = punto.getX() + desplazamientoX;
             double nuevaY = punto.getY() + desplazamientoY;
             puntosPoligono.set(i, new Punto(nuevaX, nuevaY)); // Actualiza la posición del punto trasladado
+            //Mejor utilizar Setters
         }
     }
 
