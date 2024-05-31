@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="565968f2-dd3e-44c5-a2b0-6765502b19f5" name="Changes" comment="Commit de Ejercicio 1,2,3">
+    <list default="true" id="565968f2-dd3e-44c5-a2b0-6765502b19f5" name="Changes" comment="Update de main">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/borjabolufer/Tema11/ejercicios/ejercicio04/Colores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/borjabolufer/Tema11/ejercicios/ejercicio04/Ejercicio04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/borjabolufer/Tema11/ejercicios/ejercicio04/Electrodomestico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/borjabolufer/Tema11/ejercicios/ejercicio04/Lavadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/borjabolufer/Tema11/ejercicios/ejercicio04/Television.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/borjabolufer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/borjabolufer/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +28,12 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="untitled" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -32,6 +43,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -62,19 +74,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Tema11 [:Ejercicio04.main()].executor": "Run",
     "Gradle.Tema11 [:Main.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/1ºDAM/Programacion/Tema11",
+    "last_opened_file_path": "E:/1ºDAM/Programacion/Tema11",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -98,7 +111,13 @@
       <workItem from="1716369982924" duration="255000" />
       <workItem from="1716370247057" duration="8817000" />
       <workItem from="1716384289804" duration="39000" />
-      <workItem from="1716384343221" duration="86000" />
+      <workItem from="1716384343221" duration="2278000" />
+      <workItem from="1716387575078" duration="21000" />
+      <workItem from="1716538789228" duration="102000" />
+      <workItem from="1717089295019" duration="1455000" />
+      <workItem from="1717094644022" duration="823000" />
+      <workItem from="1717151014042" duration="1851000" />
+      <workItem from="1717152907889" duration="1911000" />
     </task>
     <task id="LOCAL-00001" summary="Commit de Ejercicio 1,2,3">
       <option name="closed" value="true" />
@@ -108,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716379066209</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update de main">
+      <option name="closed" value="true" />
+      <created>1716385523658</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716385523658</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +143,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit de Ejercicio 1,2,3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit de Ejercicio 1,2,3" />
+    <MESSAGE value="Update de main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update de main" />
   </component>
 </project>

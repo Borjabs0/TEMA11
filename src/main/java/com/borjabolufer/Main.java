@@ -19,6 +19,11 @@ public class Main {
         puntos.add(new Punto(2,2));
         puntos.add(new Punto(0,2));
 
+        System.out.println( "─▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄\n" +
+                            "█░░░█░░░░░░░░░░▄▄░██░█\n" +
+                            "█░▀▀█▀▀░▄▀░▄▀░░▀▀░▄▄░█\n" +
+                            "█░░░▀░░░▄▄▄▄▄░░██░▀▀░█\n" +
+                            "─▀▄▄▄▄▄▀─────▀▄▄▄▄▄▄▀\n");
 
         Poligono poligono = new Poligono(puntos);
 
